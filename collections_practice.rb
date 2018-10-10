@@ -20,5 +20,8 @@ def reverse_array(arr)
 end
 
 def kesha_maker(arr)
-  arr.each do {word[2] a}
-  end
+  
+end
+
+def find_a(arr)
+  arr.find
