@@ -19,6 +19,3 @@ def reverse_array(arr)
   return arr.reverse
 end
 
-def kesha_maker(arr)
-  arr.
-end
